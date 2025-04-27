@@ -32,7 +32,7 @@ Run the Streamlit app:
 streamlit run app.py
 Upload your CSV and explore the magic! ✨
 
-<h3>✅ Requirements</h3>
+✅ Requirements
 1. Python 3.7+
 2. Streamlit
 3. Pandas
