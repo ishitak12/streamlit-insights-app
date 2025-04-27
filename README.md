@@ -1,4 +1,4 @@
-📊 Streamlit Insights Application
+<h1>📊 Streamlit Insights Application</h1> <br>
 Welcome to the Streamlit Insights Application! 🚀
 This project helps you upload any CSV file, analyze the data, generate meaningful insights, and visualize them interactively — all within a simple, clean Streamlit web app. 🎯
 
